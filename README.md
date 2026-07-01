@@ -1,4 +1,4 @@
-# 📊 PLG Paywall & Usage Limit Simulator
+# 💰 PLG Paywall & Usage Limit Simulator
 
 An interactive, strategic product management dashboard designed to model and balance product-led growth (PLG) conversion mechanics. This tool helps growth PMs identify the exact usage limit "sweet spot" that maximizes monthly recurring expansion revenue (ARR) without stalling organic acquisition (K-Factor) or overloading customer support operations.
 

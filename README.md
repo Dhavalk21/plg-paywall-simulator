@@ -14,7 +14,7 @@ An interactive, strategic product management dashboard designed to model and bal
 
 * **Executive Decision Communication:** Features a built-in automated strategy brief generator that summarizes complex cohort models into plain-English executive memos ready for leadership review.
 
-## ⚙️ How the Economics are Calculated
+## ⚙️ How the Economics are Calculated 
 
 This simulator computes user lifecycle value and growth using industry-standard SaaS formulas:
 
